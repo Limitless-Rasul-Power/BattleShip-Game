@@ -17,3 +17,4 @@ _Game Objective_
  As soon as all of one player's ships have been destroyed, the game ends.
  
                                                        © 2020 Limitless-Rasul-Power. All rights reserved.
+<img src="Images/BattleShip Wining (2).PNG" width="100">
