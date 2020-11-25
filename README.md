@@ -20,4 +20,4 @@ _Game Objective_
 <img src="Images/BattleShip Game (3).PNG" width="1000px">
 <img src="Images/BattleShip Wining (2).PNG" width="1000px">
 
-                                                                                 © 2020 Limitless-Rasul-Power. All rights reserved.
+                                                                 © 2020 Limitless-Rasul-Power. All rights reserved.
