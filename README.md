@@ -16,7 +16,8 @@ _Game Objective_
  Player's take turns guessing by calling out the coordinates.Both players should mark their board with: 'H' for hit, '*' for miss. For example, if you call out 6F and your opponent does not have any ship located at 6F, your opponent would respond with \"miss\".  You record the miss 6F by placing a '*'  on the lower part of your board at F6.  Your opponent records the miss by placing.
  As soon as all of one player's ships have been destroyed, the game ends.
  
-                                                       © 2020 Limitless-Rasul-Power. All rights reserved.
 <img src="Images/BattleShip Menu (2).PNG">
 <img src="Images/BattleShip Game (3).PNG">
 <img src="Images/BattleShip Wining (2).PNG">
+
+                                                       © 2020 Limitless-Rasul-Power. All rights reserved.                                                  
