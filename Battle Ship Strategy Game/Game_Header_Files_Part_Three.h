@@ -1,0 +1,9 @@
+#pragma once
+#include "About_Successfull_Coordinate.h"
+#include "About_Player_Change.h"
+#include "About_Space.h"
+#include "About_Start.h"
+#include "About_Vertical.h"
+#include "About_Spot.h"
+#include "About_Win.h"
+#include "About_Play_Again_and_End.h"

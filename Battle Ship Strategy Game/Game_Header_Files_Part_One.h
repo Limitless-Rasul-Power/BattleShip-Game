@@ -1,0 +1,12 @@
+#pragma once
+#include "Player_Structure.h"
+#include "About_Entry.h"
+#include "About_Console.h"
+#include "About_Button.h"
+#include "About_Rules.h"
+#include "About_Computer.h"
+#include "About_Name.h"
+#include "About_Board.h"
+#include "About_Define.h"
+#include "About_Hit.h"
+#include "About_Target_and_Swap.h"
